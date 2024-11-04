@@ -1,0 +1,5 @@
+venv/
+dump_gifs/
+__pycache__/
+LICENSE
+*.csv
